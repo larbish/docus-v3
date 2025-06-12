@@ -1,5 +1,1 @@
-export default defineAppConfig({
-    socials: {
-        github: 'larbish'
-    }
-})
+export default defineAppConfig({})
